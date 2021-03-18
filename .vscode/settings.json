@@ -1,0 +1,11 @@
+{
+  "eslint.packageManager": "yarn",
+  "eslint.options": {
+    "configFile": ".eslintrc.json"
+  },
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  }
+}
